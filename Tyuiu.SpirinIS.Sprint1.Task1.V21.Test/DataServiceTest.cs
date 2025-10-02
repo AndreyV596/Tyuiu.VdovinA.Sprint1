@@ -5,7 +5,7 @@ using Tyuiu.VdovinA.Sprint1.Task1.V21.Lib;
 
 
 
-namespace Tyuiu.SpirinIS.Sprint1.Task1.V21.Test
+namespace Tyuiu.VdovinA.Sprint1.Task1.V21.Test
 {
     [TestClass]
     public class DataServiceTest

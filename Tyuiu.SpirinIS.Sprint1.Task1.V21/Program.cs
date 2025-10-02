@@ -9,7 +9,7 @@ using tyuiu.cources.programming.interfaces.Sprint1;
 using Tyuiu.VdovinA.Sprint1.Task1.V21.Lib;
 
 
-namespace Tyuiu.SpirinIS.Sprint1.Task1.V21
+namespace Tyuiu.VdovinA.Sprint1.Task1.V21
 {
     class Program
     {
