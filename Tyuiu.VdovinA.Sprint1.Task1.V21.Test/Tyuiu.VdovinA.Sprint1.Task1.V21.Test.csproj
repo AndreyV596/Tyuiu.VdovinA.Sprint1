@@ -5,11 +5,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{E0B76E68-A673-416E-A7E3-993264890E2F}</ProjectGuid>
+    <ProjectGuid>{161A9876-A79A-4A28-87AB-CD9AD4127565}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Tyuiu.SpirinIS.Sprint1.Task1.V21.Test</RootNamespace>
-    <AssemblyName>Tyuiu.SpirinIS.Sprint1.Task1.V21.Test</AssemblyName>
+    <RootNamespace>Tyuiu.VdovinA.Sprint1.Task1.V21.Test</RootNamespace>
+    <AssemblyName>Tyuiu.VdovinA.Sprint1.Task1.V21.Test</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{3AC096D0-A1C2-E12C-1390-A8335801FDAB};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
@@ -47,12 +47,9 @@
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
-    <Reference Include="tyuiu.cources.programming.interfaces">
-      <HintPath>..\tyuiu.cources.programming.interfaces.dll</HintPath>
-    </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="DataServiceTest.cs" />
+    <Compile Include="UnitTest1.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
