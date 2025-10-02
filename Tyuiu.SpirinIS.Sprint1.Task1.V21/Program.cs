@@ -5,7 +5,8 @@ using System.Text;
 using System.Threading.Tasks;
 
 using tyuiu.cources.programming.interfaces.Sprint1;
-using Tyuiu.VdovinA.Sprint1.Task0.V6.Lib;
+
+using Tyuiu.VdovinA.Sprint1.Task1.V21.Lib;
 
 
 namespace Tyuiu.SpirinIS.Sprint1.Task1.V21
