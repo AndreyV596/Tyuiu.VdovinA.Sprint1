@@ -10,9 +10,19 @@ namespace Tyuiu.VdovinA.Sprint1.Task0.V6.Lib
     public class DataService
 
     {
-        public double Calculate()
+        public double Calculate(double x, double y)
         {
             return 3 * (4 + 1);
+        }
+
+        public double Calculate(double x)
+        {
+            throw new NotImplementedException();
+        }
+
+        public double Calculate()
+        {
+            throw new NotImplementedException();
         }
     }
 }
