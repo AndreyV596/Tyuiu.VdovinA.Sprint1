@@ -19,7 +19,7 @@ namespace Tyuiu.VdovinA.Sprint1.Task0.V6
             Console.WriteLine("* Спринт #1                                                             *");
             Console.WriteLine("* Тема: Базовые навыки работы в C#                                         *");
             Console.WriteLine("* Задание #0                                                              *");
-            Console.WriteLine("* Вариант #0                                                              *");
+            Console.WriteLine("* Вариант #6                                                              *");
             Console.WriteLine("* Вдовин Андрей | ПКТб-25-1                            *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                *");
