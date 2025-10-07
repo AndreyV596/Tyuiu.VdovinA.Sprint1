@@ -1,16 +1,12 @@
-﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using System;
-using Tyuiu.VdovinA.Sprint1.Task0.V6.Lib;
-
-
+﻿using Tyuiu.VdovinA.Sprint1.Task0.V6.Lib;
 
 namespace Tyuiu.VdovinA.Sprint1.Task0.V6.Test
 {
     [TestClass]
-    public class DataServiceTest
+    public sealed class Test1
     {
         [TestMethod]
-        public void ValidExpression()
+        public void TestMethod1()
         {
             DataService ds = new DataService();
             var res = ds.Calculate();
@@ -18,3 +14,4 @@ namespace Tyuiu.VdovinA.Sprint1.Task0.V6.Test
         }
     }
 }
+
