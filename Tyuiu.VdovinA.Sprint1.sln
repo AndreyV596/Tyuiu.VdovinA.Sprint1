@@ -33,11 +33,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.VdovinA.Sprint1.Task3
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.VdovinA.Sprint1.Task3.V3", "Tyuiu.VdovinA.Sprint1.Task3.V3\Tyuiu.VdovinA.Sprint1.Task3.V3.csproj", "{9452E5D6-02D3-4409-931B-351EC7A68982}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "dll", "dll", "{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}"
-	ProjectSection(SolutionItems) = preProject
-		tyuiu.cources.programming.interfaces.dll = tyuiu.cources.programming.interfaces.dll
-	EndProjectSection
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.VdovinA.Sprint1.Task0.V6.Test", "Tyuiu.VdovinA.Sprint1.Task0.V6.Test\Tyuiu.VdovinA.Sprint1.Task0.V6.Test.csproj", "{E299B3A5-2A3F-413D-B95D-6A45858B5906}"
 EndProject
 Global
