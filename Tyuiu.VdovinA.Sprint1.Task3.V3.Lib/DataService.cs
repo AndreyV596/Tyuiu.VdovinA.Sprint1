@@ -8,14 +8,14 @@ using tyuiu.cources.programming.interfaces.Sprint1;
 
 namespace Tyuiu.VdovinA.Sprint1.Task3.V3.Lib
 {
-    public class DataService : ISprint1Task3V0
+    public class DataService : ISprint1Task3V3
     {
         public double Calculate(double a, double b, double c)
         {
             return a * b * c;
         }
 
-        double ISprint1Task3V0.Calculate(double a, double b)
+        public double ParallelepipedVolume(double length, double width, double height)
         {
             throw new NotImplementedException();
         }
