@@ -14,7 +14,7 @@ namespace Tyuiu.VdovinA.Sprint1.Task2.V24.Lib
         {
             int difference = a - b;
             return difference * difference;
-          
+
         }
 
         public int SqrOfDifference(int x)
@@ -23,5 +23,4 @@ namespace Tyuiu.VdovinA.Sprint1.Task2.V24.Lib
         }
     }
 }
-    
-    
+
