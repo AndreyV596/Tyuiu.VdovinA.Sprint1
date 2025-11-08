@@ -17,7 +17,7 @@ namespace Tyuiu.VdovinA.Sprint1.Task1.V21
             DataService ds = new DataService();
 
             Console.Title = "Спринт #1 | Выполнил: Вдовин А. | ПКТб-25-1";
-           
+
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #1                                                               *");
             Console.WriteLine("* Тема: Базовые навыки работы в C#                                        *");
@@ -45,7 +45,7 @@ namespace Tyuiu.VdovinA.Sprint1.Task1.V21
             Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *");
             Console.WriteLine("***************************************************************************");
 
-    
+
             Console.WriteLine(ds.Calculate(x, y));
 
             Console.ReadLine();
