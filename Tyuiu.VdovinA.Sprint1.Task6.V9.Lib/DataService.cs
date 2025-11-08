@@ -7,7 +7,7 @@ using tyuiu.cources.programming.interfaces.Sprint1;
 
 namespace Tyuiu.VdovinA.Sprint1.Task6.V9.Lib
 {
-    public class DataService 
+    public class DataService
     {
         public string MoveLastLetterToStart(string text)
         {
