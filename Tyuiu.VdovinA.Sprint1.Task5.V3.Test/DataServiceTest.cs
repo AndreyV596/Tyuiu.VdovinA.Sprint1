@@ -15,5 +15,6 @@ namespace Tyuiu.VdovinA.Sprint1.Task5.V3.Test
             int wait = 9;
             Assert.AreEqual(wait, res);
         }
+
     }
 }
