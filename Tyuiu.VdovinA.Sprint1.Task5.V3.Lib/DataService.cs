@@ -12,7 +12,7 @@ namespace Tyuiu.VdovinA.Sprint1.Task5.V3.Lib
     {
         public int Calculate(int k)
         {
-       
+
             int h = (k / 100) % 10;
             return h;
         }
