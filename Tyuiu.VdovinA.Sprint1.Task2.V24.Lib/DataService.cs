@@ -22,7 +22,10 @@ namespace Tyuiu.VdovinA.Sprint1.Task2.V24.Lib
 
         }
 
-    
+        public int SqrOfDifference(int x)
+        {
+            throw new NotImplementedException();
+        }
     }
 }
 
