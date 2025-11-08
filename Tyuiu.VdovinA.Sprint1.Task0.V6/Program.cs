@@ -42,4 +42,3 @@ namespace Tyuiu.VdovinA.Sprint1.Task0.V6
         }
     }
 }
-
