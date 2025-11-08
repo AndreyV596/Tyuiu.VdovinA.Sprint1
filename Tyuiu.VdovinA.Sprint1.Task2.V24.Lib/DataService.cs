@@ -8,8 +8,13 @@ using tyuiu.cources.programming.interfaces.Sprint1;
 
 namespace Tyuiu.VdovinA.Sprint1.Task2.V24.Lib
 {
-    public class DataService
+    public class DataService : ISprint1Task2V24
     {
+        public int CalculateDiffSquare(int value, int valueTwo)
+        {
+            throw new NotImplementedException();
+        }
+
         public int SqrOfDifference(int a, int b)
         {
             int difference = a - b;
@@ -17,10 +22,7 @@ namespace Tyuiu.VdovinA.Sprint1.Task2.V24.Lib
 
         }
 
-        public int SqrOfDifference(int x)
-        {
-            throw new NotImplementedException();
-        }
+    
     }
 }
 
