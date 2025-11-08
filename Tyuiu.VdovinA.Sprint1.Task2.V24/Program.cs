@@ -5,8 +5,6 @@ using System.Text;
 using System.Threading.Tasks;
 using Tyuiu.VdovinA.Sprint1.Task2.V24.Lib;
 
-
-
 namespace Tyuiu.VdovinA.Sprint1.Task2.V24
 {
     class Program
@@ -30,12 +28,11 @@ namespace Tyuiu.VdovinA.Sprint1.Task2.V24
             Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *");
             Console.WriteLine("***************************************************************************");
 
-
-            Console.WriteLine("Квадрат разницы чисел = " + ds.SqrOfDifference(num1, num2));
-
+            // Используем метод, требуемый интерфейсом
+            int result = ds.CalculateDiffSquare(num1, num2);
 
             Console.WriteLine($"Разница чисел: {num1} - {num2} = {num1 - num2}");
-            Console.WriteLine($"Квадрат разницы: ({num1} - {num2})^2 = {ds.SqrOfDifference(num1, num2)}");
+            Console.WriteLine($"Квадрат разницы: ({num1} - {num2})^2 = {result}");
 
             Console.ReadLine();
         }

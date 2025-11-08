@@ -12,20 +12,21 @@ namespace Tyuiu.VdovinA.Sprint1.Task2.V24.Lib
     {
         public int CalculateDiffSquare(int value, int valueTwo)
         {
-            throw new NotImplementedException();
+            int difference = value - valueTwo;
+            return difference * difference;
         }
 
         public int SqrOfDifference(int a, int b)
         {
             int difference = a - b;
             return difference * difference;
-
         }
 
         public int SqrOfDifference(int x)
         {
-            throw new NotImplementedException();
+            // Если нужен метод с одним параметром, можно вернуть квадрат числа
+            // или выбросить исключение, если он не используется
+            return x * x;
         }
     }
 }
-
